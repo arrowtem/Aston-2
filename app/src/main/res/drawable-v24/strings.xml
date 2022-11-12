@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aston-3</string>
+    <string name="columbia">Колумбия</string>
+    <string name="denmark" >Дания</string>
+    <string name="italy">Италия</string>
+    <string name="polland">Польша</string>
+    <string name="swtizerland">Швейцария</string>
+    <string name="thailand">Тайланд</string>
+</resources>
